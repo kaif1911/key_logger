@@ -28,8 +28,8 @@ Features
 3. Run the script:```python keylogger.py```
 
 ## Overview
-![Keylogger UI](Screenshot 2025-02-16 130128.png)
+![Keylogger UI](Screenshot 2025-02-16 130128.pnghttps://github.com/kaif1911/key_logger/blob/main/Screenshot%202025-02-16%20130128.png)
 ### keylogger UI
-![Key_log json file](Screenshot 2025-02-16 130446.png)
+![Key_log json file](https://github.com/kaif1911/key_logger/blob/main/Screenshot%202025-02-16%20130446.png)
 ### Keylogger json file  
 It stores in this way 
