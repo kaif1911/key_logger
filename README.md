@@ -26,3 +26,10 @@ Features
 2. Install dependencies using:
    ```pip install pynput``` 
 3. Run the script:```python keylogger.py```
+
+## Overview
+![Keylogger UI](Screenshot 2025-02-16 130128.png)
+### keylogger UI
+![Key_log json file](Screenshot 2025-02-16 130446.png)
+### Keylogger json file  
+It stores in this way 
