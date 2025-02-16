@@ -22,7 +22,7 @@ Features
 - pynput
 
 ## Installation
- 1. Clone this repository or download the script.
- 2. Install dependencies using:
-   `pip install pynput`
-3. Run the script:`python keylogger.py`
+1. Clone this repository or download the script.
+2. Install dependencies using:
+   ```pip install pynput``` 
+3. Run the script:```python keylogger.py```
